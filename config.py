@@ -1,0 +1,7 @@
+x_path = 'health-apps/regression_matrices/words_comments.csv'
+y_path = 'health-apps/regression_matrices/comments_ratings.csv'
+words_comments_path = 'health-apps/regression_matrices/words_per_comment.csv'
+app_comments_path = 'health-apps/comments/*.json'
+comments_ratings_path = 'health-apps/regression_matrices/comments_ratings.csv'
+words_per_comment_path = 'health-apps/regression_matrices/words_per_comment.csv'
+true_value_path = 'health-apps/regression_matrices/word_values.csv'

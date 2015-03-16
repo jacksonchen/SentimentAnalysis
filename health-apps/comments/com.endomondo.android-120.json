@@ -1,0 +1,210 @@
+{
+  "package": "com.endomondo.android",
+  "version_code": "120",
+  "version_name": "9.3.1",
+  "date_published": "2014-01-03",
+  "downloads": 5000000,
+  "total_reviews": "128734",
+  "reviews": [
+    {
+      "ts": "1387381058798",
+      "st": "1",
+      "t": "Crash non stop",
+      "cmt": "With no option to resume the tracking process after a force close, plus the app itself is so demanding when it comes to resources. Edit: recent updates are premium only! The app is getting ugly without trying to fix the main bugs",
+      "id": "gp:AOqpTOHIPUw9b0gI8Eei_8L5-uApRnTzVE3Z5nSbmwbNos82pFkr2hWEboYSb16mM06aitQhwfZGSIWHkT5VM7o",
+      "a": "Achwaq Khalid",
+      "url": "http://lh5.googleusercontent.com/-tblfeC0eY0Q/AAAAAAAAAAI/AAAAAAAAPWg/x88xevRJOZk/photo.jpg",
+      "surl": "https://lh5.googleusercontent.com/-tblfeC0eY0Q/AAAAAAAAAAI/AAAAAAAAPWg/x88xevRJOZk/photo.jpg"
+    },
+    {
+      "ts": "1387399066695",
+      "st": "2",
+      "t": "GPS adquisition and reliability is poor.",
+      "cmt": "I run endomondo on a blackberry Torch 9800 and on the samsung galaxy S2. It sems a bit more reliable on the blackberry but sometimes it also fails to aquire gps signal on the BB. The samsung galaxy S2 is even worst, it almost never picks up the gps and if it does it drops it continously so when I get to my first mile it says I only have .7 miles, so until they fix the gps acuracy on the software I raye this below average. When it works is awesome though.",
+      "id": "gp:AOqpTOEVqIzgHRDlsrEPKXmC1lX0ga1qi2aHU8FHcNJq0Md2dvEzw39GoX_ggREbWmGv2ARiPmCdRwa-NJ-bkH0",
+      "a": "Jaime Gonzalez",
+      "url": "http://lh6.googleusercontent.com/-r7YQHiO4P30/AAAAAAAAAAI/AAAAAAAAALI/jpVNPbJGQ3E/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-r7YQHiO4P30/AAAAAAAAAAI/AAAAAAAAALI/jpVNPbJGQ3E/photo.jpg"
+    },
+    {
+      "ts": "1387369554161",
+      "st": "2",
+      "t": "Distance measurements unreliable",
+      "cmt": "I love the design of this app - it\\'s better than anything else of its type. However, on my device (Galaxy S3 running Cyanogenmod) the distance measurements are inaccurate and unreliable. It is not uncommon for the voice coach to tell me I ran a mile in 8:43 only to have the UI show me I ran that mile in 8:27. Also, it seems to lose its GPS signal every 3rd or 4th time I go out. All of my other location based apps work fine.",
+      "id": "gp:AOqpTOHiSflLe0k3d6-E9jC_BDU2wY-fUHnt93KksUvcl5D3zGOrKlQs5I_kiG3gcgiM8_IE4f-wuJ7sPccVDtw",
+      "a": "Doug Neumann",
+      "url": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+      "surl": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+    },
+    {
+      "ts": "1388424560578",
+      "st": "1",
+      "t": "App hangs. Not starting at all",
+      "cmt": "Never expected such a thing. What you guys are doing???",
+      "id": "gp:AOqpTOGenhRxbdpbPivwNP3PwpPnKvywDd1mZQHS7Lth1oHI_7jO4qj96OLpwTHnRfxWyPOwwZiVBcoN2hEfyVk",
+      "a": "dhiraj budarkatti",
+      "url": "http://lh3.googleusercontent.com/-13efcCUeRmk/AAAAAAAAAAI/AAAAAAAAAAA/mk052ARwHGk/photo.jpg",
+      "surl": "https://lh3.googleusercontent.com/-13efcCUeRmk/AAAAAAAAAAI/AAAAAAAAAAA/mk052ARwHGk/photo.jpg"
+    },
+    {
+      "ts": "1388650492042",
+      "st": "3",
+      "t": "Does the job.",
+      "cmt": "Endomondo can be buggy at times and the ads to upgrade are supremely annoying, but the app does what I need it to do, with a pretty straightforward interface, a very good GPS tracking system and some cool social features.",
+      "id": "gp:AOqpTOHZV5o91RwdzX-iUxlhHyoV3fHetRBXEuJgfHcYlTnWA5HjRVkEYLrN3wpA8lKD6R_hI2XMwcdsoAK0dDw",
+      "a": "Asher Minden-Webb",
+      "url": "http://lh6.googleusercontent.com/-ZYzPVTi7bRA/AAAAAAAAAAI/AAAAAAAAAR0/oiSIVGzaKng/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-ZYzPVTi7bRA/AAAAAAAAAAI/AAAAAAAAAR0/oiSIVGzaKng/photo.jpg"
+    },
+    {
+      "ts": "1388325851625",
+      "st": "5",
+      "t": "Terrific workout app and website",
+      "cmt": "Endomondo is great for tracking workouts and all the related stats.  The training plan features for premium users are terrific. They have helped give me a customized training program to prepare for my 10k. Highly recommended app - I use it almost daily.",
+      "id": "gp:AOqpTOHgmGj3zMEFIF_eyLzgPiNCXLea5uLemjJGiBzfKfc4sbm5rYzORAgKHb_h5sIr7Oc2Wvq0EFJHnXe09cQ",
+      "a": "Brett Hinton",
+      "url": "http://lh6.googleusercontent.com/-YtSsYb7r9L0/AAAAAAAAAAI/AAAAAAAAABQ/0r0LuuuZjw0/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-YtSsYb7r9L0/AAAAAAAAAAI/AAAAAAAAABQ/0r0LuuuZjw0/photo.jpg"
+    },
+    {
+      "ts": "1387775566009",
+      "st": "5",
+      "t": "Nice app",
+      "cmt": "Sport watches can be expensive, but your smartphone beats them all in functionality with it\\'s larger processor. This app is an essential part of my workouts. Superior to ANY sports watch.",
+      "id": "gp:AOqpTOF461Koo2KngVu6qk3kH-6y-n27dw59sqzzmEv5bH4K7KsKRpL9SJMTRMweMmkzTmnDKU91TPs8x4Ju9zo",
+      "a": "Angelo DeSanto",
+      "url": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+      "surl": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+    },
+    {
+      "ts": "1387408784680",
+      "st": "5",
+      "t": "Great app!",
+      "cmt": "Love the new update. I have been using this app every day since August and it just gets better and better!",
+      "id": "gp:AOqpTOG-M0ZzE2EYar4-6B1QVdpIKPUOzxRQUqj6wAfiubVzw2FIrRjC8YCn5wQwDcLM_d5CB5w5PemWC0RmFUY",
+      "a": "Ann Thornton",
+      "url": "http://lh6.googleusercontent.com/-0yUFOcEed6E/AAAAAAAAAAI/AAAAAAAAAao/RkC-fvkRnQc/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-0yUFOcEed6E/AAAAAAAAAAI/AAAAAAAAAao/RkC-fvkRnQc/photo.jpg"
+    },
+    {
+      "ts": "1388167791301",
+      "st": "5",
+      "t": "Great app",
+      "cmt": "I love this app. I love that it tracks mileage with GPS, gives calories burned, speed, how much to hydrate with. You can join challages. I love that you can log in online and manage your account, challanges and lots more.",
+      "id": "gp:AOqpTOFap7iclrUsiYItIlvnGYkyzuWg1UgLdNgxtRWfWubUQDyBSQCZ-ScfRqxWo56Y5o2aRFkWDeOjNduvQgs",
+      "a": "Tammy Decker",
+      "url": "http://lh5.googleusercontent.com/-vvN1_30RCf0/AAAAAAAAAAI/AAAAAAAAITE/PZwPdCGKJKo/photo.jpg",
+      "surl": "https://lh5.googleusercontent.com/-vvN1_30RCf0/AAAAAAAAAAI/AAAAAAAAITE/PZwPdCGKJKo/photo.jpg"
+    },
+    {
+      "ts": "1387377995909",
+      "st": "4",
+      "t": null,
+      "cmt": "Awesome app. Only wish I could raise the voice volume and not change music volume and add a cadence feature as well.\\tAwesome app. Only wish I could raise the voice volume and not change music volume. Also the find friend feature is cool.",
+      "id": "lg:AOqpTOFN2KpcvvaateYs8feOZkqtqwqqE-dxDofqtYl9o0jvfrr5WOmKIu6YJZJvhFvReIQqyX31MOPQtIL94p8",
+      "a": "A Google User",
+      "url": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+      "surl": null
+    },
+    {
+      "ts": "1387981417457",
+      "st": "5",
+      "t": "Super",
+      "cmt": "Good app. \\304\\260 really like it\\'s give me an opportunity to track my result and etc.",
+      "id": "lg:AOqpTOEk-Ce6CPRe9DlF_vapgfF26WWHPg493MfyAC78wWWBBdeXrJzDz_nxBuilxTFFK50qMKMG7LjymEEviFk",
+      "a": "A Google User",
+      "url": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+      "surl": null
+    },
+    {
+      "ts": "1388170557006",
+      "st": "1",
+      "t": "Awful if you\\'re already an athlete",
+      "cmt": "I wanted something to give me the extra push to get me out the door and keep track of my training. The training plan got my paces completely wrong for the 5k multiple times. It also requires you to carry the device to record workouts. I prefer not to take my phone with me on runs so there\\'s no compromise option for recording workouts. Bummer.",
+      "id": "gp:AOqpTOHVPqM6RxxOjkzBgi1eFbzQosAYA0LW98PvXk3mbnwsQ0rYyj-7vwRwsdRDcwqKCamHhjNouj_6xC2miyg",
+      "a": "Samiul Haque",
+      "url": "http://lh4.googleusercontent.com/-XRWdoiAMZfQ/AAAAAAAAAAI/AAAAAAAAAEQ/KGQ7NIQ6L4s/photo.jpg",
+      "surl": "https://lh4.googleusercontent.com/-XRWdoiAMZfQ/AAAAAAAAAAI/AAAAAAAAAEQ/KGQ7NIQ6L4s/photo.jpg"
+    },
+    {
+      "ts": "1387371028146",
+      "st": "5",
+      "t": "Complete, stable and great !",
+      "cmt": "This app has it all for regular workout tracking. Some stats are unavailable for free version but the free part is quite informative. It works great and ia really accurate.",
+      "id": "gp:AOqpTOF-4OJZ_CEL-mBJuXr1urrLdDBdhejMPSt_t8R4nvWVWapTf_HD_flbFA-_dUrfX4narhgXgG_oBTtIPgM",
+      "a": "Patricio Stegmann",
+      "url": "http://lh3.googleusercontent.com/-EkrYeQa_G7g/AAAAAAAAAAI/AAAAAAAAEAw/kEH6Z7hGnCU/photo.jpg",
+      "surl": "https://lh3.googleusercontent.com/-EkrYeQa_G7g/AAAAAAAAAAI/AAAAAAAAEAw/kEH6Z7hGnCU/photo.jpg"
+    },
+    {
+      "ts": "1388556924581",
+      "st": "5",
+      "t": "Great app",
+      "cmt": "Task time audio feedback excellent.  Very accurate and reporting is great. Thanks endo people!",
+      "id": "gp:AOqpTOFRAvVKzhn_k9r2eQUtqmh4PP7kVyJxweInL-tZ-bsa8RqH-NE1xG6XmFebZKKx_3wgUKmQI3rbDwDaUGw",
+      "a": "clive nichols",
+      "url": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+      "surl": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+    },
+    {
+      "ts": "1388089451040",
+      "st": "2",
+      "t": "won\\'t work with my Pebble",
+      "cmt": "Works flawlessly with my Nexus 4, would give it 5 stars, but Endomondo will not take on the simple challenge of making the app compatible with the Pebble Smart watch like some of their competitors have done.",
+      "id": "gp:AOqpTOF-EdZM33_g2mMo_zo7a42z8RbVNxDAfK5bmP8HJ8XqG6nv1eBkvXcl00pfE9w1Vj9KbYa7clTd-kc9B2E",
+      "a": "Mark LaForge",
+      "url": "http://lh5.googleusercontent.com/-JBxf9v5Rf5Q/AAAAAAAAAAI/AAAAAAAABIk/abJkXD_K_5k/photo.jpg",
+      "surl": "https://lh5.googleusercontent.com/-JBxf9v5Rf5Q/AAAAAAAAAAI/AAAAAAAABIk/abJkXD_K_5k/photo.jpg"
+    },
+    {
+      "ts": "1387367459932",
+      "st": "4",
+      "t": "Good App. Keep the challenge",
+      "cmt": "It needs to calculate the steps while walking or running like other applications do.",
+      "id": "gp:AOqpTOFi514l0xXvPIWNj7WerChWFMJ8bKfOlifcN_0EX3YLyPo6IctSa10EWJ5gFFFnLArbqErA-sLJlS1K7P8",
+      "a": "Sawsan Asaad",
+      "url": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+      "surl": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+    },
+    {
+      "ts": "1387730683597",
+      "st": "5",
+      "t": "Amazing!!",
+      "cmt": "An awesome app! Keeps track of everything and is a good tool for making sure you stay on track with your training",
+      "id": "gp:AOqpTOE8N6OfBrD2TP2tAw31w9z2T2j68dMwopeBR4cMFuqKfcKewn-k2dNZ94aZ1KG-T0CXKirMGqMhlovkO5U",
+      "a": "Gage Ridley",
+      "url": "http://lh6.googleusercontent.com/-kB6aMS974cM/AAAAAAAAAAI/AAAAAAAAACo/GyRbYVZU8VM/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-kB6aMS974cM/AAAAAAAAAAI/AAAAAAAAACo/GyRbYVZU8VM/photo.jpg"
+    },
+    {
+      "ts": "1387670169058",
+      "st": "4",
+      "t": "Love it!",
+      "cmt": "Love integration with myfitnesspal and ability to play music in background. Only wish there was a way to program my intervals into app.",
+      "id": "gp:AOqpTOEUUAWOX9pndOusmw7jlWvZAeW2HGHdcvSEPhIUrBkpIZGRQnA007a8px0liBvYIKpC6WsNhbpzuPy4ZuU",
+      "a": "Kristin Arnold",
+      "url": "http://lh6.googleusercontent.com/-iw-kfHiwhko/AAAAAAAAAAI/AAAAAAAACP4/CFuQn4veZP4/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-iw-kfHiwhko/AAAAAAAAAAI/AAAAAAAACP4/CFuQn4veZP4/photo.jpg"
+    },
+    {
+      "ts": "1388167186056",
+      "st": "5",
+      "t": "Best all rounder app.",
+      "cmt": "Best sports activity tracker app. Keep focused on power saving always...",
+      "id": "gp:AOqpTOHH5cT6G9NNHQSB__GNlvWWXI7nUd2mTPNges3bxzLJW4fTqQGwA5ovpIspHHG2iVxdcX89VdsrP2DsBcI",
+      "a": "Anirudh Gargi",
+      "url": "http://lh6.googleusercontent.com/-ypu-tN8jWlg/AAAAAAAAAAI/AAAAAAAAA74/2CjKOzkq4ls/photo.jpg",
+      "surl": "https://lh6.googleusercontent.com/-ypu-tN8jWlg/AAAAAAAAAAI/AAAAAAAAA74/2CjKOzkq4ls/photo.jpg"
+    },
+    {
+      "ts": "1388048607479",
+      "st": "1",
+      "t": "Doesn\\'t work after the update",
+      "cmt": "After updating the app, it\\'s not working anymore on my Galaxy Note 2 Android 4.1.2",
+      "id": "gp:AOqpTOF0v-F6VNSITZOqw5JBYUMzFp1WmV0fPfV89iMRDW0u6oRz3mxd1bIrcwEWgzMS-nSpc49etWcnm2S6DAc",
+      "a": "Abdelrheem mahmoud",
+      "url": "http://lh3.googleusercontent.com/-E5Xh6lorqYM/AAAAAAAAAAI/AAAAAAAAAHU/PpM7k2tv7vY/photo.jpg",
+      "surl": "https://lh3.googleusercontent.com/-E5Xh6lorqYM/AAAAAAAAAAI/AAAAAAAAAHU/PpM7k2tv7vY/photo.jpg"
+    }
+  ]
+}

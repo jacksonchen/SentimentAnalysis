@@ -1,0 +1,23 @@
+<div id="analysis">
+  <div id="analysisblock">
+<%= form_tag({action: "processing", formtype: "analysis"}, multipart: true) do %>
+  <%= label_tag "word_string", 'Enter your string here', id: "analysislabel" %><br />
+
+  <%= text_field_tag "word_string" %>
+  <%= submit_tag "Analyze" %>
+<% end %>
+  </div>
+
+  <% flash.each do |message_type, message| %>
+  <div class="alert alert-<%= message_type %>"><%= message %></div>
+<% end %>
+</div>
+
+
+<div id="config">
+<%= form_tag({action: "processing", formtype: "upload"}, multipart: true) do %>
+  <%= label_tag "uploaded_file", 'Upload your word value file.' %><br />
+  <%= file_field_tag "uploaded_file" %><br />
+  <%= submit_tag "Save" %>
+<% end %>
+</div>
