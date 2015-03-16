@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'open-sans';
+  src: url("/assets/Open_Sans/OpenSans-Light-d5716a27c0da237e22d0469a6067c103.ttf") format("truetype");
+}
+
+/* line 9, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+html {
+  height: 100%;
+}
+
+/* line 13, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+body {
+  margin: 0;
+  height: 100%;
+  font-family: 'open-sans';
+}
+
+/* line 19, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+div#analysis {
+  height: 80%;
+  background-color: #ADEAEA;
+  text-align: center;
+}
+
+/* line 25, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+div#analysisblock {
+  padding-top: 10%;
+  margin-bottom: 50px;
+}
+
+/* line 30, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+div#config {
+  background-color: #9CBA7F;
+  height: 20%;
+  text-align: center;
+}
+
+/* line 36, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+#analysislabel {
+  font-size: 40px;
+  margin-bottom: 100px;
+}
+
+/* line 41, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+input[type="text"] {
+  height: 30px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #CCC;
+}
+
+/* line 49, /Users/Jackson/Documents/School/Comp Sci/SentimentAnalysis/app/assets/stylesheets/word.css.scss */
+div.alert {
+  margin-top: 10px;
+  font-size: 20px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
