@@ -1,6 +1,6 @@
 <div id="analysis">
   <div id="analysisblock">
-<%= form_tag({action: "processing", formtype: "analysis"}, multipart: true, autocomplete: 'off') do %>
+<%= form_tag({action: "processing"}, multipart: true, autocomplete: 'off') do %>
   <%= label_tag "word_string", 'Enter your string here', id: "analysislabel", autocomplete: 'off' %><br />
 
   <%= text_field_tag "word_string" %>
@@ -14,10 +14,10 @@
 </div>
 
 
-<div id="config">
-<%= form_tag({action: "processing", formtype: "upload"}, multipart: true) do %>
-  <%= label_tag "uploaded_file", 'Upload your word value file.' %><br />
-  <%= file_field_tag "uploaded_file" %><br />
-  <%= submit_tag "Save" %>
-<% end %>
-</div>
+<!-- <div id="config">
+<%#= form_tag({action: "processing", formtype: "upload"}, multipart: true) do %>
+  <%#= label_tag "uploaded_file", 'Upload your word value file.' %><br />
+  <%#= file_field_tag "uploaded_file" %><br />
+  <%#= submit_tag "Save" %>
+<%# end %>
+</div> -->
